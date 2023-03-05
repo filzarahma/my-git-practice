@@ -1,2 +1,2 @@
 # my-git-practice
-This repoitory is used to learn about git
+This repository is used to learn about git
